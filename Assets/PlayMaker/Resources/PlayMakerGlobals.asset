@@ -35,3 +35,5 @@ MonoBehaviour:
   - HOLDED
   - RESET
   - PRESSED
+  - OPEN TOOL
+  - RESET TOOL
